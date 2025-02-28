@@ -5,7 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JesseRubio/PasswordManager/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-### SECURE CUSTOM PASSWORD MANAGER TOOL
+# PASSWORD MANAGER
 -  simple Password Manager Tool
 -  script written  **Python**
 
